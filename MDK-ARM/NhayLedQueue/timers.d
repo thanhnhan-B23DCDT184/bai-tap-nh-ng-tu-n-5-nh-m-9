@@ -1,0 +1,15 @@
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+nhayledqueue\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nhayledqueue\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nhayledqueue\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nhayledqueue\timers.o: ../Core/Inc/FreeRTOSConfig.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+nhayledqueue\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
